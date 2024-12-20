@@ -8,6 +8,6 @@
 <picture> <img align="right" src="https://th.bing.com/th/id/OIF.mNQpbY1bKFSdScIw7d95Xg?rs=1&pid=ImgDetMain" width = 250px></picture>
 
 <br><br>
-
-- developer: CODE shikanoko nokonoko koshitantan
+- project purpose: just fun ;D
+- developer: NIRUSSVN0
 <br>
